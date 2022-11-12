@@ -1,0 +1,70 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/admin/.m2/repository/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar;C:/Users/admin/.m2/repository/at/favre/lib/bcrypt/0.4.1/bcrypt-0.4.1.jar;C:/Users/admin/.m2/repository/at/favre/lib/bytes/0.4.6/bytes-0.4.6.jar;C:/Users/admin/.m2/repository/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar;C:/Users/admin/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ResumeDbApp 0.1-jpa API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ResumeDbApp 0.1-jpa API'
+com.company.dao.impl
+com.company.entity
+com.mycompany.dao.inter
+com.mycompany.main
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/dao/impl/AbstractDAO.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/dao/impl/CountryDaoImpl.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/dao/impl/EmploymentHistoryDaoImpl.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/dao/impl/SkillDaoImpl.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/dao/impl/UserDaoImpl.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/dao/impl/UserSkillDaoImpl.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/entity/Country.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/entity/EmploymentHistory.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/entity/Skill.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/entity/User.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/company/entity/UserSkill.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/mycompany/dao/inter/CountryDaoInter.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/mycompany/dao/inter/EmploymentHistoryDaoInter.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/mycompany/dao/inter/SkillDaoInter.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/mycompany/dao/inter/UserDaoInter.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/mycompany/dao/inter/UserSkillDaoInter.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/mycompany/main/Context.java'
+'C:/Workspace/JavaLessons/lessonsAwesome/awesomeresume/jdbc/ResumeDbApp/src/main/java/com/mycompany/main/Main.java'
+C:\Users\admin\.m2\repository\org\projectlombok\lombok\1.18.22\lombok-1.18.22.jar = 1640445954882
+C:\Users\admin\.m2\repository\at\favre\lib\bcrypt\0.4.1\bcrypt-0.4.1.jar = 1643680773154
+C:\Users\admin\.m2\repository\at\favre\lib\bytes\0.4.6\bytes-0.4.6.jar = 1643680773170
+C:\Users\admin\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar = 1642608110853
+C:\Users\admin\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1642608111366
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\src\main\java = 1642604903734
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\allclasses-frame.html = 1644165141975
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\allclasses-noframe.html = 1644165142002
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\constant-values.html = 1644165140730
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\deprecated-list.html = 1644165141947
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\help-doc.html = 1644165142070
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\index-all.html = 1644165141917
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\index.html = 1644165142017
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\overview-frame.html = 1644165140395
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\overview-summary.html = 1644165142044
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\overview-tree.html = 1644165141867
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\package-list = 1644165140366
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\script.js = 1644165142112
+C:\Workspace\JavaLessons\lessonsAwesome\awesomeresume\jdbc\ResumeDbApp\target\site\apidocs\stylesheet.css = 1644165142086
